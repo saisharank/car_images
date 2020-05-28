@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train1</folder>
+	<filename>1231.jpg</filename>
+	<path>D:\tensorflow\models\research\object_detection\images\train1\1231.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rear_windshield_glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>107</ymin>
+			<xmax>258</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

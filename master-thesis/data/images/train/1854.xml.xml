@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tr1</folder>
+	<filename>1854.jpg</filename>
+	<path>D:\tensorflow\models\research\object_detection\images\tr1\1854.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tail_lights</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>55</ymin>
+			<xmax>148</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

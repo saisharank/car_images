@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tr1</folder>
+	<filename>2036.jpg</filename>
+	<path>D:\tensorflow\models\research\object_detection\images\tr1\2036.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>front_windshield_glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>59</ymin>
+			<xmax>295</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

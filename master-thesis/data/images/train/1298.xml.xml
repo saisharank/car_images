@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tr</folder>
+	<filename>1298.jpg</filename>
+	<path>D:\tensorflow\models\research\object_detection\images\tr\1298.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head_lights</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>78</ymin>
+			<xmax>258</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>
